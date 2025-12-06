@@ -39,5 +39,3 @@ O código gera automaticamente:
 - **Python 3.x**
 - **Matplotlib** para visualizações
 - **NumPy** para cálculos estatísticos
-
-## 📁 Estrutura do Projeto
