@@ -1,5 +1,7 @@
 __________________________________________________
-Comando pra baixar as bibliotecas, nesse py -3.13, coloque a versão baixada em sua maquina:
+Comando pra baixar as bibliotecas.
+nesse py -3.13, coloque a versão baixada em sua maquina:
+
 py -3.13 -m pip install numpy matplotlib
 __________________________________________________
 
